@@ -1,6 +1,10 @@
 # Signalis AP Map Tracker Pack
 
-For use with Poptracker and the Signalis AP Randomizer
+For use with PopTracker 
+https://github.com/black-sliver/PopTracker/
+
+and the Signalis AP Randomizer
+https://github.com/devoidlazarus/SIGNALISArchipelagoRandomizer/releases
 
 To use: Simply drop the zip file into the "packs" folder inside the poptracker folder.
 
