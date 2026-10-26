@@ -1,0 +1,81 @@
+[
+  {
+    "name": "PenroseCH1",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/PenroseWreck.png"
+  },
+  {
+    "name": "B1",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B1.png"
+  },
+  {
+    "name": "B2",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B2.png"
+  },
+  {
+    "name": "B3",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B3.png"
+  },
+  {
+    "name": "B4",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B4.png"
+  },
+  {
+    "name": "B5B6",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B5 B6.png"
+  },
+  {
+  "name": "B7B8",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B7 B8.png"
+  },
+  {
+  "name": "mines",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/mines.png"
+  },
+  {
+  "name": "nowhere",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/Nowhere.png"
+  },
+  {
+  "name": "B1Corrupted",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/B1Corrupted.png"
+  },
+  {
+  "name": "RotfrontG",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/RotfrontGround.png"
+  },
+  {
+  "name": "RotfrontU",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/RotfrontUpper.png"
+  },
+   {
+  "name": "RotfrontM",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "img": "images/maps/RotfrontMetro.png"
+  }
+
+]

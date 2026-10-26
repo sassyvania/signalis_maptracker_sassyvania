@@ -1,0 +1,472 @@
+[
+    // Keys
+  
+{
+  "name": "Butterfly Key",
+  "type": "progressive",
+  "allow_disabled": true,
+  "initial_stage_idx": 0,
+  "stages": [
+    {
+      "img": "images/items/butterflykey1.png",
+      "codes": "bkeyhalf",
+      "inherit_codes": false
+    },
+    {
+      "img": "images/items/butterflykey2.png",
+      "codes": "bkeyfull",
+      "inherit_codes": true
+    }
+  ]
+  
+},
+{
+  "name": "Airlock Key",
+  "type": "toggle",
+  "img": "images/items/brokenairlock.png",
+      "codes": "brokenairlock"
+  
+},
+{
+  "name": "East Wing Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+    "codes": "eastwingkey"
+},
+{
+  "name": "Adhesive Tape",
+  "type": "consumable",
+  "img": "images/items/tape.png",
+  "max_quantity": 2,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+    "codes": "tape"
+},
+{
+  "name": "Identification Card",
+  "type": "toggle",
+  "img": "images/items/idcard1.png",
+  "codes": "idcard"
+},
+{
+  "name": "Aperture Card",
+  "type": "toggle",
+  "img": "images/items/aperture.png",
+  "codes": "aperture"
+},
+{
+  "name": "Classroom Key",
+  "type": "consumable",
+  "img": "images/items/idcard2.png",
+  "max_quantity": 2,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+  "codes": "classroom"
+},
+{
+  "name": "Protektor Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "protektor"
+},
+{
+  "name": "Receptionist Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "receptionist"
+},
+{
+  "name": "Mensa Key",
+  "type": "toggle",
+  "img": "images/items/idcard3.png",
+  "codes": "mensa"
+},
+{
+  "name": "Service Hatch Key",
+  "type": "toggle",
+  "img": "images/items/smallkey2.png",
+  "codes": "servicehatch"
+},
+{
+  "name": "West Wing Key",
+  "type": "toggle",
+  "img": "images/items/idcard3.png",
+  "codes": "westwingkey"
+},
+{
+  "name": "Examination Room Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "examkey"
+},
+
+{
+  "name": "Incinerator Room Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "incinerator"
+},
+{
+  "name": "Element Keys",
+  "type": "consumable",
+  "img": "images/items/5key1.png",
+  "max_quantity": 5,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+  "codes": "elementkeys"
+},
+{
+  "name": "Pump Room Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "pumpkey"
+},
+{
+  "name": "Eagle Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "eagle"
+},
+{
+  "name": "Maintenance Key",
+  "type": "toggle",
+  "img": "images/items/idcard1.png",
+  "codes": "maintenance"
+},
+{
+  "name": "Hummingbird Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "hummingbird"
+},
+{
+  "name": "Library Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "librarykey"
+},
+{
+  "name": "Administrator's Key",
+  "type": "toggle",
+  "img": "images/items/idcard1.png",
+  "codes": "admin"
+},
+{
+  "name": "Owl Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "owlkey"
+},
+{
+  "name": "Island Key",
+  "type": "toggle",
+  "img": "images/items/islandkey.png",
+  "codes": "islandkey"
+},
+{
+  "name": "Postbox Key",
+  "type": "toggle",
+  "img": "images/items/smallkey1.png",
+  "codes": "postboxkey"
+},
+{
+  "name": "Hunter's Key",
+  "type": "toggle",
+  "img": "images/smallkey1.png",
+  "codes": "hunter"
+},
+{
+  "name": "Workshop Key",
+  "type": "toggle",
+  "img": "images/items/idcard2.png",
+  "codes": "workshop"
+},
+{
+  "name": "Patient Key",
+  "type": "toggle",
+  "img": "images/items/smallkey3.png",
+  "codes": "patientkey"
+},
+{
+  "name": "Store Key",
+  "type": "toggle",
+  "img": "images/items/smallkey3.png",
+  "codes": "storekey"
+},
+{
+  "name": "Rusted Key",
+  "type": "toggle",
+  "img": "images/items/islandkey.png",
+  "codes": "rustedkey"
+},
+
+// Techically Keys But More Complicated
+
+{
+  "name": "Socket Wrench",
+  "type": "progressive",
+  "allow_disabled": true,
+  "initial_stage_idx": 0,
+  "stages": [
+  {
+    "img": "images/items/socket.png",
+    "codes": "wrench",
+    "inherit_codes": false
+  },
+  {
+    "img": "images/items/socketwrench.png",
+    "codes": "wrenchfull",
+    "inherit_codes": false
+  }
+    ]
+      
+},
+{
+  "name": "Plates",
+  "type": "consumable",
+  "img": "images/items/plate.png",
+  "max_quantity": 6,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+  "codes": "plate"
+},
+{
+  "name": "Wooden Doll",
+  "type": "progressive",
+  "allow_disabled": true,
+  "initial_stage_idx": 0,
+  "stages": [
+  {
+    "img": "images/items/doll1.png",
+    "codes": "doll",
+    "inherit_codes": false
+  },
+  {
+    "img": "images/items/doll2.png",
+    "codes": "meddoll",
+    "inherit_codes": false
+  },
+  {
+    "img": "images/items/doll3.png",
+    "codes": "fulldoll",
+    "inherit_codes": false
+  }
+    ]
+      
+}, 
+//Items
+{
+  "name": "Video Cassette",
+  "type": "toggle",
+  "img": "images/items/vhs.png",
+  "codes": "vhs"
+},
+{
+  "name": "Music Cassette",
+  "type": "toggle",
+  "img": "images/items/tapebroken.png",
+  "codes": "cassette"
+},
+
+{
+  "name": "Fuse",
+  "type": "toggle",
+  "img": "images/items/fuse.png",
+  "codes": "fuse"
+},
+{
+  "name": "Weapon Case",
+  "type": "toggle",
+  "img": "images/smallkey1.png",
+  "codes": "wcase"
+},
+{
+  "name": "Astrolabe",
+  "type": "toggle",
+  "img": "images/items/astrolabe.png",
+  "codes": "astrolabe"
+},
+{
+  "name": "Shutter Gate Handle",
+  "type": "toggle",
+  "img": "images/items/crank.png",
+  "codes": "shutter"
+},
+{
+  "name": "Incense",
+  "type": "toggle",
+  "img": "images/items/incense.png",
+  "codes": "incense"
+},
+{
+  "name": "Bride Rings",
+  "type": "consumable",
+  "img": "images/items/ring3.png",
+  "max_quantity": 3,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+  "codes": "rings"
+},
+
+{
+  "name": "Small Bottle",
+  "type": "toggle",
+  "img": "images/Tackle.png",
+  "codes": "bottle"
+},
+{
+  "name": "Developing Tank",
+  "type": "toggle",
+  "img": "images/items/photoflask.png",
+  "codes": "phototank"
+},
+{
+  "name": "Developing Fluid",
+  "type": "toggle",
+  "img": "images/Tackle.png",
+  "codes": "photofluid"
+},
+{
+  "name": "Developed Photo",
+  "type": "progressive",
+  "allow_disabled": true,
+  "initial_stage_idx": 0,
+  "stages": [
+    {
+      "img": "images/items/photoflask.png",
+      "codes": "developer",
+      "inherit_codes": false
+    },
+    {
+      "img": "images/items/photodeveloped.png",
+      "codes": "developed",
+      "inherit_codes": false
+    }
+  ]
+  
+},
+{
+  "name": "Blue Diskette",
+  "type": "toggle",
+  "img": "images/items/diskB.png",
+  "codes": "diskB"
+},
+{
+  "name": "Red Diskette",
+  "type": "toggle",
+  "img": "images/items/diskR.png",
+  "codes": "diskR"
+},
+{
+  "name": "Dial Ring",
+  "type": "toggle",
+  "img": "images/items/dialring.png",
+  "codes": "dialring"
+},
+{
+  "name": "Tarot Cards",
+  "type": "consumable",
+  "img": "images/items/tarot.png",
+  "max_quantity": 6,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+  "codes": "tarot"
+},
+{
+  "name": "Acetone",
+  "type": "toggle",
+  "img": "images/items/acetone.png",
+  "codes": "acetone"
+},
+{
+  "name": "Firearm",
+  "type": "toggle",
+  "img": "images/items/pistol.png",
+  "codes": "armed"
+},
+{
+  "name": "Pistol",
+  "type": "toggle",
+  "img": "images/items/gun.png",
+  "codes": "pistol"
+},
+{
+  "name": "Shotgun",
+  "type": "toggle",
+  "img": "images/items/gun.png",
+  "codes": "shotgun"
+},
+{
+  "name": "Sub Machine Gun",
+  "type": "toggle",
+  "img": "images/items/gun.png",
+  "codes": "smg"
+},
+{
+  "name": "Handwheel",
+  "type": "toggle",
+  "img": "images/items/wheel.png",
+  "codes": "handwheel"
+},
+{
+  "name": "Flashlight Module",
+  "type": "toggle",
+  "img": "images/items/flashlight.png",
+  "codes": "flashlight"
+},
+{
+  "name": "Artifact Keys",
+  "type": "consumable",
+  "img": "images/items/artifactkeys.png",
+  "max_quantity": 3,
+  "increment": 1,
+  "decrement": 1,
+  "initial_quantity": 0,
+  "overlay_background": "#000000",
+  "overlay_font_size": 12,
+  "codes": "artifactkeys"
+},
+{
+  "name": "Radio Module",
+  "type": "toggle",
+  "img": "images/items/radio.png",
+  "codes": "radio"
+},
+{
+        "name": "Artifact Ending",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages":
+        [
+          {
+            "img": "images/items/artifactoff.png",
+            "codes": "artifactOff"
+          },
+          {
+            "img": "images/items/artifacton.png",
+            "codes": "artifactOn",
+            "inherit_codes": false
+          }
+        ]
+    }
+]
