@@ -4,7 +4,7 @@ For use with Poptracker and the Signalis AP Randomizer
 
 To use: Simply drop the zip file into the "packs" folder inside the poptracker folder.
 
-#Double Back Checks: 
+# Double Back Checks: 
 All checks with an asterisk (*) do not spawn on first room load. Reloading a save or using F8 to reload a level -AFTER visting the room first-, will spawn those items into the game. These checks are:
 
 B3: HDU 02 - Repair Spray*
@@ -36,5 +36,5 @@ Rotfront Photo Store: 8mm Ammo *
 Rotfront Dentist Room: Everything but Red Diskette *
 Rotfront Metro Platform - 10mm Ammo *
 
-#AI Disclosure:
+# AI Disclosure:
 No AI was used in any part of the creation of this pack. The maps were recreated by hand in Affinity Photo, item icons and fonts were sourced from datamined files. All coding was done by hand, using my older packs as a guide. The older packs were all based on what I learned in the poptracker template pack.
