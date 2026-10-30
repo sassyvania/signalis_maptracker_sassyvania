@@ -3,7 +3,7 @@
     {
         {"package_version": "0.0.6",
         "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.6/signalis_maptracker_sassyvania.zip",
-        "sha256": "b1a3cb6e5b90ba0668cca93c027c466059281e31b586b2cefd450d7141c8986d",
+        "sha256": "ddcd20d4865cf58e225ba14c196f077d55230a2e05e79b06049fcfe9e0baa6d0",
         "changelog": ["Completely forgot that removing a check from the game (Nowhere Operating Room 12mm Ammo) would change the auto tracking numbers for everything after it. Fixed!"] }
 
 
