@@ -1,6 +1,6 @@
-{
+[
     "versions": 
-    [
+    {
         {"package_version": "0.0.6",
         "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.6/signalis_maptracker_sassyvania.zip",
         "sha256": "b1a3cb6e5b90ba0668cca93c027c466059281e31b586b2cefd450d7141c8986d",
@@ -9,8 +9,8 @@
 
 
 
-    ],
-    [
+    },
+    {
         {"package_version": "0.0.5",
         "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.5/signalis_maptracker_sassyvania.zip",
         "sha256": "f3ff92f11a9fa306220b3809b6878e43498917d6c57945554d95faf44db15b52",
@@ -19,6 +19,6 @@
 
 
 
-    ]
+    }
 
-}
+]
