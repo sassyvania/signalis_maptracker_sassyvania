@@ -17,7 +17,7 @@ B3: Storeroom - Repair Spray //
 
 B3: Surgery - Repair Patch //
 
-B4: Flooded Bathroom - Repair Patch //
+B4: Flooded Bathroom - Repair Patch // <br>
 B6: Cleaning Room Hallway - Repair Patch //
 B6: Workshop Hallway - Repair Patch // 
 B6: ARAR Dorm - 10mm Ammo //
