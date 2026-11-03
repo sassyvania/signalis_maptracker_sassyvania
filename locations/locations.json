@@ -553,7 +553,7 @@
           "item_count": 1
         },
           {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
   
@@ -614,7 +614,7 @@
           "item_count": 1
         },
         {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
   
@@ -734,7 +734,7 @@
           "item_count": 1
         },
         {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         }
   
@@ -881,7 +881,7 @@
           "item_count": 1
         },
         {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         }
   
@@ -958,7 +958,7 @@
       "sections": [
         
         {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         }
   
@@ -1000,7 +1000,7 @@
       "access_rules": [ ],
       "sections": [
         {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         }
       ],
@@ -1026,7 +1026,7 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         }
       ],
@@ -1226,7 +1226,7 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         }
       ],
@@ -1276,7 +1276,7 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         }
       ],
@@ -1550,7 +1550,7 @@
           "item_count": 1
         },
          {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
   
@@ -1605,7 +1605,7 @@
           "item_count": 1
         },
         {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
   
@@ -1792,7 +1792,7 @@
       "access_rules": [ ],
       "sections": [
         {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         }
   
@@ -1838,7 +1838,7 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         }
   
@@ -1899,7 +1899,7 @@
       "access_rules": [ ],
       "sections": [
         {
-          "name": "Repair Spray+*",
+          "name": "* Repair Spray+",
           "item_count": 1
         }
   
@@ -2011,7 +2011,7 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         }
   
@@ -2056,12 +2056,13 @@
       "name": "Nowhere: Hummingbird Corridor",
       "access_rules": ["radio" ],
       "sections": [
+        
         {
-          "name": "Repair Spray+",
+          "name": "Shotgun Rounds",
           "item_count": 1
         },
         {
-          "name": "Shotgun Rounds",
+          "name": "* Repair Spray+",
           "item_count": 1
         }
   
@@ -2107,7 +2108,7 @@
           "access_rules": "rings:3",
           "item_count": 1
         },
-        { "name": "10mm Ammo*",
+        { "name": "* 10mm Ammo",
         "item_count": 1
         }
   
@@ -2177,7 +2178,7 @@
           "item_count": 1
         },
         {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
   
@@ -2239,7 +2240,7 @@
           "item_count": 1
         },
          {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         }
   
@@ -2309,11 +2310,11 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         },
          {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
         
@@ -2345,7 +2346,7 @@
           "item_count": 1
         },
          {
-          "name": "Nitro Express Ammo*",
+          "name": "* Nitro Express Ammo",
           "item_count": 1
         }
   
@@ -2452,7 +2453,7 @@
           "item_count": 1
         },
         {
-          "name": "Autoinjector*",
+          "name": "* Autoinjector",
           "item_count": 1
         }
   
@@ -2536,15 +2537,15 @@
           "item_count": 1
         },
         {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         },
         {
-          "name": "8mm Ammo*",
+          "name": "* 8mm Ammo",
           "item_count": 1
         },
         {
-          "name": "Shotgun Rounds*",
+          "name": "* Shotgun Rounds",
           "item_count": 1
         }
         
@@ -2569,7 +2570,7 @@
           "item_count": 1
         },
         {
-          "name": "10mm Ammo*",
+          "name": "* 10mm Ammo",
           "item_count": 1
         }
   
@@ -2592,7 +2593,7 @@
           "item_count": 1
         },
         {
-          "name": "Repair Spray*",
+          "name": "* Repair Spray",
           "item_count": 1
         }
         
@@ -2685,16 +2686,16 @@
           "item_count": 1
         },
         {
-          "name": "Shotgun Rounds*",
+          "name": "* Shotgun Rounds",
           "item_count": 1
         },
         {
-          "name": "Repair Patch*",
+          "name": "* Repair Patch",
           "item_count": 1
         },
         
         {
-          "name": "8mm Ammo*",
+          "name": "* 8mm Ammo",
           "item_count": 1
         }
   
@@ -2718,7 +2719,7 @@
           "item_count": 1
         },
         {
-          "name": "8mm Ammo*",
+          "name": "* 8mm Ammo",
           "item_count": 1
         }
   
