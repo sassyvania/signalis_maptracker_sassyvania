@@ -4,7 +4,7 @@
         {
             "package_version": "0.0.7",
             "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.7/signalis_maptracker_sassyvania.zip",
-            "sha256": df178c0a8255725bc221bbbf9493994ba6d74828422a60cabb6720a3f58fbb89",
+            "sha256": "df178c0a8255725bc221bbbf9493994ba6d74828422a60cabb6720a3f58fbb89",
             "changelog": [
                 "Realized one double back check wasn't marked, changed the markings on the others to be more readable. Nothing big."
             ] 
