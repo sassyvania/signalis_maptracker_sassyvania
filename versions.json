@@ -1,24 +1,31 @@
-[
+{
     "versions": 
+    [
+        {
+            "package_version": "0.0.7",
+            "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.7/signalis_maptracker_sassyvania.zip",
+            "sha256": df178c0a8255725bc221bbbf9493994ba6d74828422a60cabb6720a3f58fbb89",
+            "changelog": [
+                "Realized one double back check wasn't marked, changed the markings on the others to be more readable. Nothing big."
+            ] 
+        },
     {
-        {"package_version": "0.0.6",
-        "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.6/signalis_maptracker_sassyvania.zip",
-        "sha256": "ddcd20d4865cf58e225ba14c196f077d55230a2e05e79b06049fcfe9e0baa6d0",
-        "changelog": ["Completely forgot that removing a check from the game (Nowhere Operating Room 12mm Ammo) would change the auto tracking numbers for everything after it. Fixed!"] }
-
-
-
-
+        {
+            "package_version": "0.0.6",
+            "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.6/signalis_maptracker_sassyvania.zip",
+            "sha256": "ddcd20d4865cf58e225ba14c196f077d55230a2e05e79b06049fcfe9e0baa6d0",
+            "changelog": [
+                "Completely forgot that removing a check from the game (Nowhere Operating Room 12mm Ammo) would change the auto tracking numbers for everything after it. Fixed!"
+            ] 
     },
+    
     {
         {"package_version": "0.0.5",
         "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.5/signalis_maptracker_sassyvania.zip",
         "sha256": "f3ff92f11a9fa306220b3809b6878e43498917d6c57945554d95faf44db15b52",
-        "changelog": ["Re-added Grenade Shells in Corrupted AEON after it was fixed in AP version 0.26, finally added pack to github. Possibly added auto-updates, not sure if it works."] }
-
-
-
-
-    }
-
-]
+        "changelog": [
+            "Re-added Grenade Shells in Corrupted AEON after it was fixed in AP version 0.26, finally added pack to github. Possibly added auto-updates, not sure if it works."
+            ]
+        }
+    ]
+}
