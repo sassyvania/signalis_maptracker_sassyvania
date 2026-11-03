@@ -2,6 +2,14 @@
     "versions": 
     [
         {
+            "package_version": "0.0.8",
+            "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.8/signalis_maptracker_sassyvania.zip",
+            "sha256": "67bb4a32180b49d99158491a019954013cbfe7d401f384da3e409cc7b1559cb7",
+            "changelog": [
+                "Totally screwed up autotracking the double back checks with 0.0.7, fixed that."
+            ] 
+        },
+        {
             "package_version": "0.0.7",
             "download_url": "https://github.com/sassyvania/signalis_maptracker_sassyvania/releases/download/0.0.7/signalis_maptracker_sassyvania.zip",
             "sha256": "df178c0a8255725bc221bbbf9493994ba6d74828422a60cabb6720a3f58fbb89",
