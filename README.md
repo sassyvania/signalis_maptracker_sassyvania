@@ -12,8 +12,11 @@ To use: Simply drop the zip file into the "packs" folder inside the poptracker f
 All checks with an asterisk (*) do not spawn on first room load. Reloading a save or using F8 to reload a level -AFTER visting the room first-, will spawn those items into the game. These checks are:
 
 B3: HDU 02 - Repair Spray //
+
 B3: Storeroom - Repair Spray //
+
 B3: Surgery - Repair Patch //
+
 B4: Flooded Bathroom - Repair Patch //
 B6: Cleaning Room Hallway - Repair Patch //
 B6: Workshop Hallway - Repair Patch // 
